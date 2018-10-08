@@ -12,6 +12,4 @@ key="FeatureLoadPackagesBinAssembliesOnAppStart" value="true"
 
 key="EnableRegisterEntityEventsFromRefAssemblies" value="true"
 
-key="FeatureLoadPackagesRefAssembliesOnAppStart" value="false"
-
 key="EnableRegisterServicesFromRefAssemblies" value="true"
