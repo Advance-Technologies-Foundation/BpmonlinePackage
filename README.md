@@ -6,8 +6,8 @@ Copy zip file to local directory Documents\Visual Studio 2017\Templates\ProjectT
 Restart Visual Studio
 
 # IMPORTANT
-NEED ACTIVATE NEXT FEATURES IN WEB.CONFIG IN WEB.APP BPMONLINE\
-key="FeatureLoadPackagesBinAssembliesOnAppStart" value="true"
-key="EnableRegisterEntityEventsFromRefAssemblies" value="true"
-key="FeatureLoadPackagesRefAssembliesOnAppStart" value="false"
-key="EnableRegisterServicesFromRefAssemblies" value="true"
+NEED ACTIVATE NEXT FEATURES IN WEB.CONFIG IN WEB.APP BPMONLINE \n\r
+key="FeatureLoadPackagesBinAssembliesOnAppStart" value="true" \n\r
+key="EnableRegisterEntityEventsFromRefAssemblies" value="true" \n\r
+key="FeatureLoadPackagesRefAssembliesOnAppStart" value="false" \n\r
+key="EnableRegisterServicesFromRefAssemblies" value="true" \n\r
